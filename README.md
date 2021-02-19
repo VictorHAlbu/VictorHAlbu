@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Victor Hugo :man_technologist
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/victor-hugo-albuquerque-354b46191/)
+
+- 🌱 I'm currently focused on developing ruby on rails, html, javascript and css. I have several applications developed in ruby on rails here on my GitHub, I like this technology for its production power. Being a technology lover, I also study front-end and some JavaScrpit fremeworks, because I'm always looking to grow professionally
+
+
+- 🔭 I am not currently working, just developing projects autonomously, looking for an opportunity as a junior developer to generate value for me in a professional manner and in knowledge and to return to work, developing my skills and growing in the company
