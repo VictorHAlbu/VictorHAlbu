@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 
 
 - 🔭 I am not currently working, just developing projects autonomously, looking for an opportunity as a junior developer to generate value for me in a professional manner and in knowledge and to return to work, developing my skills and growing in the company
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?victorhalbu=willianrod)](https://github.com/VictorHAlbu/VictorHAlbu/edit/main/README.md)
